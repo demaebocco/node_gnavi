@@ -6,7 +6,7 @@
 ## サンプル
 
 ```
-var GNAVI = require("./node_gnavi.js");
+var GNAVI = require("./gnavi.js");
 
 // keyid ぐるなびWEBサービスへのアクセスキー
 var gnavi = new GNAVI('xxxxxxxxxxx');

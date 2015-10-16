@@ -1,4 +1,4 @@
-var GNAVI = require('./node_gnavi.js');
+var GNAVI = require('./gnavi.js');
 
 // keyid ぐるなびWEBサービスへのアクセスキー
 var gnavi = new GNAVI('5d11403f8f2d124a2174bf3169ca7a99');
